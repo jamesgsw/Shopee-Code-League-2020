@@ -19,9 +19,9 @@ The list of challenges are:
 
 Code in this repository:
 * [Competition01_Order_Brushing.py](https://github.com/jamesgsw/Shopee-Code-League-2020/blob/master/Competition01_Order_Brushing.py)
-* [Competition05_Logistic_Analytics.ipynb](https://github.com/jamesgsw/Shopee-Code-League-2020/blob/master/Competition05_Logistic_Analysis.ipynb)
+* [Competition05_Logistic_Analytics.ipynb](https://github.com/jamesgsw/Shopee-Code-League-2020/blob/master/Competition05_Logistic_Analysis.ipynb)<br/>
 This was the most engaging challenge for me as there's extensive manipulation of datetime objects which are a new area for me. The challenge problem statement is: Identify all the orders that are considered late depending on the Service Level Agreements (SLA) with our Logistics Provider.
-* [Competition06_Sentiment_Analysis.ipynb](https://github.com/jamesgsw/Shopee-Code-League-2020/blob/master/Competition06_Sentiment_Analysis.ipynb)
+* [Competition06_Sentiment_Analysis.ipynb](https://github.com/jamesgsw/Shopee-Code-League-2020/blob/master/Competition06_Sentiment_Analysis.ipynb)<br/>
 The challenge problem statement is: Build an accurate system to understand these reviews which has a great impact on overall Shopee’s user experience. 
-* [Competition07_Marketing_Analytics.ipynb](https://github.com/jamesgsw/Shopee-Code-League-2020/blob/master/Competition07_Marketing_Analytics.ipynb)
+* [Competition07_Marketing_Analytics.ipynb](https://github.com/jamesgsw/Shopee-Code-League-2020/blob/master/Competition07_Marketing_Analytics.ipynb)<br/>
 The challenge problem statement is: Based on the data provided, you must predict whether each user will open an email sent to him/her.
